@@ -35,8 +35,17 @@
                             <a href="" class="text-gray-600 hover:text-blue px-3 py-2 rounded-md text-sm font-medium transition-colors">Contacto</a>
                         </div>
                     </div>
+
+                    <div class="md:hidden">
+                        <button class="text-gray-600 hover:text-blue focus:outline-none">
+                            <i class="fas fa-bars h-6 w-6 text-xl"></i>
+                        </button>
                 </div>
             </nav>
         </header>
+
+        <main class="container mx-auto mt-8 px-4 min-h-screen">
+            
+        </main>
     </body>
 </html>
