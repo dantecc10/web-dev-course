@@ -44,8 +44,20 @@
             </nav>
         </header>
 
-        <main class="container mx-auto mt-8 px-4 min-h-screen">
-            
-        </main>
+        <main class="container mx-auto mt-8 px-4 min-h-screen"></main>
+
+        <footer class="bg-gray-800 text-white mt-16">
+            <div class="grid grid-cols md:grid-cols-4 gap-8">
+                <div class="col-span-1 md:col-span-2">
+                    <h3 class="text-xl font-bold mb-4">Mi Sitio</h3>
+                    <p class="text-gray-300 mb-4">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi nobis maxime nam delectus ullam, quos repellat, temporibus sunt illo atque amet enim. Voluptates hic enim amet tempora porro vitae explicabo?</p>
+                </div>
+                <div class="flex space-x-4">
+                    <a href="#" class="text-blue-800 hover:text-white transition-colors">
+                        <i class="fab fa-facebook-f text-xl"></i>
+                    </a>
+                </div>
+            </div>
+        </footer>
     </body>
 </html>
